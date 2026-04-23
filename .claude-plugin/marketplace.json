@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "taerim-shin",
+  "description": "Personal Claude Code plugins by taerim-shin",
+  "owner": {
+    "name": "taerim-shin",
+    "email": "taerim.shin@navercorp.com"
+  },
+  "plugins": [
+    {
+      "name": "ralph-loop",
+      "description": "Continuous self-referential AI loops for iterative development (Ralph Wiggum technique). Supports concurrent sessions with --name option.",
+      "category": "development",
+      "source": "./plugins/ralph-loop",
+      "homepage": "https://oss.navercorp.com/taerim-shin/claude-plugins"
+    }
+  ]
+}
