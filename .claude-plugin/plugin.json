@@ -1,0 +1,9 @@
+{
+  "name": "ralph-loop",
+  "version": "1.1.0",
+  "description": "Continuous self-referential AI loops for iterative development (Ralph Wiggum technique). Supports concurrent sessions with --name option for named/shared loops.",
+  "author": {
+    "name": "taejs",
+    "email": "taerim.shin@navercorp.com"
+  }
+}
